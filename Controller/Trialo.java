@@ -3,7 +3,6 @@ package Controller;
 import java.util.*;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
-import Controla_ordenadores.Sorts;
 
 public class Trialo extends Thread{
 	private static Map<Integer, Integer> rankingMap;
